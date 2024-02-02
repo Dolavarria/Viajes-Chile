@@ -11,7 +11,6 @@ body {
 }
 
 
-
 .quien-icon {
     background-color: #0DCAF0;
     padding: 8px;
@@ -33,7 +32,7 @@ body {
     padding: 8px;
     display: flex;
     justify-content: center;
-    font-family: oswald;
+    font-family: 'Oswald';
     font-size: 30px;
     color: #ffffff;
 }
@@ -42,7 +41,7 @@ body {
     padding: 8px;
     display: flex;
     justify-content: center;
-    font-family: oswald;
+    font-family: 'Sswald';
     font-size: 30px;
     color: #ffffff;
 }
@@ -67,4 +66,9 @@ footer a {
 .carousel .d-block {
     height: 650px;
     object-fit: cover;
+}
+
+.form-label{
+    font-family: 'Open sans';
+    color: #ffffff;
 }
