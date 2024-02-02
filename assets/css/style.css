@@ -9,4 +9,7 @@ body{
 }
 
 
-
+.carousel .d-block {
+    height: 650px;  
+    object-fit: cover;  
+}
