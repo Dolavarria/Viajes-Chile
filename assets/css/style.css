@@ -1,15 +1,70 @@
-.navbar-brand img{
+.navbar-brand img {
     height: 40px;
 }
 
 
 
-body{
+body {
     background-color: #000000;
+    font-family: 'Open Sans';
+
 }
 
 
+
+.quien-icon {
+    background-color: #0DCAF0;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+}
+
+.quien-parrafo {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#destacados-titulo {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-family: oswald;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+#contacto-titulo {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-family: oswald;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+footer {
+    background-color: #0DCAF0;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+#enviar {
+    background-color: #0DCAF0;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
 .carousel .d-block {
-    height: 650px;  
-    object-fit: cover;  
+    height: 650px;
+    object-fit: cover;
 }
